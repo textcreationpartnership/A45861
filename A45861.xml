@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indulgence not to be refused comprehension humbly desired : the Churche's peace earnestly endeavoured / by Philatheseirenes [sic].</title>
+            <author>Philaletheseirenes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45861</idno>
+            <idno type="STC">Wing I154</idno>
+            <idno type="STC">ESTC R28943</idno>
+            <idno type="EEBO-CITATION">10784834</idno>
+            <idno type="OCLC">ocm 10784834</idno>
+            <idno type="VID">45856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Indulgence not to be refused comprehension humbly desired : the Churche's peace earnestly endeavoured / by Philatheseirenes [sic].</title>
+                  <author>Philaletheseirenes.</author>
+               </titleStmt>
+               <extent>25 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other eds. show author: Philaletheseirenes.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45856:1" rendition="simple:additions"/>
+            <pb facs="tcp:45856:1" rendition="simple:additions"/>
+            <p>INDULGENCE Not to be Refuſed.</p>
+            <p>COMPREHENSION Humbly Deſired.</p>
+            <p>THE CHURCHE'S PEACE Earneſtly Endeavoured.</p>
+            <p>By <hi>PHILATHESEIRENES.</hi>
+            </p>
+            <q>Let my Sentence come forth from thy Preſence; let thine Eyes behold the things that are equal,
+<bibl>
+                  <hi>Pſ. 17.3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:45856:2"/>
+            <pb n="1" facs="tcp:45856:2"/>
+            <p>
+               <seg rend="decorInit">S</seg>Ince His Majeſties Happy Reſtauration (where<g ref="char:EOLhyphen"/>in the Welfare and Unity of the Church of <hi>England</hi> was and is ſtill much concerned) it hath been thought reaſon of State, and ſo Reſolved upon, that ſuch Miniſters as would not ſubſcribe the Declaration, and declare as in the Act of Uniformity in 1662. is required; ſhould not be capable of holding any Eccleſiaſtical Benefice, nor per<g ref="char:EOLhyphen"/>mitted to preach. Many Miniſters thereupon have ſince that time laid aſide the Exerciſe of their Miniſtry, as not being clear in ſome diſputable Points therein contained and pre<g ref="char:EOLhyphen"/>ſcribed; yet very well reſolved, and in Conſcience ſatisfied in all things neceſſary to the true Proteſtant Religion, and their Allegiance and Obedience to His Majeſty, their moſt Rightful and Dread Soveraign, and to the Being, Peace and Order of the Church of <hi>England,</hi> in whoſe Communion they intend to live and die.</p>
+            <p>And it doth very much refreſh them, in this ten years laſt ſilence and obſcurity of theirs, that they neither harbour any principles of Diſloyalty or Schiſme; much leſs favoured any practice of Diſunion or Diſobedience; but intend to be found in the way of their Duty to God and the King all their dayes.</p>
+            <p>And it doth not a little add to their contentment and comfort in their Afflictions, That His Sacred Majeſty hath not only Declared them Loyal and Peaceable, but alſo en<g ref="char:EOLhyphen"/>deavoured in His Speeches and Actions, a Legal and Fitting Indulgence for them; and now done ſomething preparatory hereunto in His late Declaration.</p>
+            <pb n="2" facs="tcp:45856:3"/>
+            <p>For indeed the Act of Uniformity (although by the Subſcriptions and Appointments thereof, it hath taken in many Grave, Learned and Worthy Perſons) yet others alſo are ſuch taken in by it, who are not ſo well conditioned in their Minds, Morals and Affections to the true Intereſt of the Church of <hi>England,</hi> as others that are now laid aſide: nor have they ever declared ſo much for Her in Her Straights and Obſcurity, as they have done, who are not therein com<g ref="char:EOLhyphen"/>prehended. So that it hath not been an adaequate and ſuffi<g ref="char:EOLhyphen"/>cient Teſt, and Standard of all mens integrity and peaceable<g ref="char:EOLhyphen"/>neſs, nor wrought any great cure upon our Diviſions, ſo as was expected; but we are broken ſtill, to the great gratifica<g ref="char:EOLhyphen"/>tion of thoſe that would invade or undermine the Church it ſelf, by their extream Opinions and Animoſities.</p>
+            <p>And it may be, upon theſe, or ſuch like Conſiderations, ſome worthy Patriots in Parliament, and ſome reverend Fa<g ref="char:EOLhyphen"/>thers have not been unwilling to allow the Non conformiſts ſuch relaxations; and that by Law, as may be conſiſtent with the Eſſentials of the Doctrine and Diſcipline of the Church of <hi>England;</hi> thanks to them for their reſpects and good remembrance of us.</p>
+            <p>But I muſt confeſs there have not been wanting alſo ſome Eccleſiaſtical Incendiaries and Boutefews, who have endea<g ref="char:EOLhyphen"/>voured by their preaching and writing, and otherwiſe, to keep the Flame aloſt, and the Wounds ſtill freſh and bleed<g ref="char:EOLhyphen"/>ing, to the ruine of many poor Miniſters and their Families for ever: and not without ſome inconvenience alſo to the Church and People of God; to whoſe miſguided zeal, and hectical heat, I ſhall offer nothing for the guiding of their actions and paſſions, but the Church's preſent condition; and refer them to their own Natural and Evangelical Affecti<g ref="char:EOLhyphen"/>ons; if there be any bowels of Love, Ingenuity or Charity to the Church and their Brethren, who think themſelves as good Subjects, and as true Miniſters and Members of Chriſt, and as peaceable in their principles and practices as them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>And as for His Majeſties Gracions Declaration, <hi>March</hi>
+1671. which many men according to their fears and hopes,
+<pb n="3" facs="tcp:45856:3"/>their intereſts and tempers, their ill or good natures, make various conſtructions of (for Princes actions paſs no more without animadverſions than other mens) what others ſay or think, it ſeems to be a genuine, and natural effect of that antipathy and enmity, which is in His Majeſties Diſpoſition and Nature to all violent proceedings againſt thoſe that have truly tender Conſciences: And if it reach further to others, whoſe principles are not modeſt, nor honeſt; but grate upon the foundation, and tend not to peace nor ſolid piety, it is but a pleonaſme or overflow of that great kindneſs which He alwayes intended and expreſſed about matters of Religion; wherein He had rather overdo in things ſo agreeable to His own good temper, than ſeem to leave any out of the compaſs and umbrage of His Favour and Indulgence; the fault being theirs, that know not how to govern themſelves; not His, that knows wiſely to attemper ſeverity and ſweetneſs, and fit<g ref="char:EOLhyphen"/>ly to join them together in the Government of His Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Since which Declaration, there hath lately come forth a buſie Paper, the Title whereof is, <hi>Toleration not to be abu<g ref="char:EOLhyphen"/>ſed;</hi> Or, <hi>A Serious Queſtion debated and reſolved, Whether it be adviſable, eſpecially for the</hi> Presbyterians, <hi>either in Con<g ref="char:EOLhyphen"/>ſcience, or Prudence, to take advantage from His Majeſties late Declaration, to deny or rebate their Communion with our Parochial Congregations, and to gather themſelves into diſtinct and ſeparate Churches?</hi>
+            </p>
+            <p>Which Queſtion I ſuppoſe the <hi>Presbyterians</hi> will reſolve in the Negative, as well as the Propoſer; and I muſt alſo ac<g ref="char:EOLhyphen"/>quaint him that there hath been ſcarcely any thing that looks like an Argument in his whole Debate, but hath been conſi<g ref="char:EOLhyphen"/>dered and ventilated with all reſpect and tenderneſs to the Church of <hi>England.</hi>
+            </p>
+            <p>Nor indeed can it be in reaſon and duty imagined, That His Sacred Majeſty intending by this Declaration, an Indul<g ref="char:EOLhyphen"/>gence to tender Conſciences, ſhould intend to leave out the greateſt part of His Loyal and Obedient Subjects, who are
+<pb n="4" facs="tcp:45856:4"/>Diſſenters; much leſs intangle them in any way of Separati<g ref="char:EOLhyphen"/>on or Schiſme contrary to their Conſciences and the Churches peace; which the Debater ſeems to intimate.</p>
+            <p>So that if this Book be intended in kindneſs to direct the
+<hi>Presbyterians</hi> in their way at preſent in things they could not elſe poſſibly have foreſeen without the Debaters help, or as a Mediator to move them to hold off a while till the Biſhops make their way more clear by ſome Epiſcopal Licenſe for pub<g ref="char:EOLhyphen"/>lick places, in ſubſervience to the Kings Declaration; or till ſome Comprehenſion can be legally procured by Act of Parliament to make them ſtand <hi>recti in foro Regni, Eccleſiae &amp; Conſcientiae,</hi> as well as other men.</p>
+            <p>Or if his end be really to advance the true Church of
+<hi>England,</hi> and not to weaken it; to declare the ſobriety of the
+<hi>Presbyterian</hi> principles and practices, and not to blazon their infirmities, which they acknowledge to be many as well as other mens; they have reaſon to thank him for his good intentions.</p>
+            <p>But not for ſtating the Queſtion for them; for it is in effect, to enquire whether the <hi>Presbyterians</hi> may go ac<g ref="char:EOLhyphen"/>cording to their principles or not? whether they may turn <hi>Independents</hi> or not? whether they may leave their relation to and communion with the Church of
+<hi>England</hi> or not? which indeed is ridiculous and contradictious. For the truth is, they ſeem (ſuch as I am acquainted with) to be ſo far from deſiring to know whether they may go againſt their principles or not, that they would not, though they might have a particular diſpenſation for it; but deſire to comport themſelves as they have hitherto done towards their Mother the Church of <hi>England,</hi> with all duty and good manners; and to have their actions at the offers of their duty paſs with<g ref="char:EOLhyphen"/>out offence or miſ-repreſentation.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="5" facs="tcp:45856:4"/>
+            <head>CHAP. II. THerefore the Queſtion in my opinion, ought to be this;</head>
+            <p>
+               <hi>Whether the</hi> Presbyterians <hi>conſidering their great endeavours, and deſires to enjoy a Legal Indulgence and Comprehenſion by the Law of the Land, as to ſome Scholaſtick and diſputable points betwixt them and their Superiors, Fathers and Brethren, which are not eſſential to the government of Church and State; the government whereof many of them upon their Oaths, have obliged themſelves not to alter; and not being yet able to proeure it, and having given ſufficient teſtimony of their Sobriety and Peaceableneſs theſe ten years laſt paſt, may not at this time ac<g ref="char:EOLhyphen"/>cept of His Majeſties Indulgence in His Declaration without offence or ſelf-contradiction?</hi>
+            </p>
+            <p>For the clearing whereof it is neceſſary to premiſe theſe things,</p>
+            <p n="1">1. That the intereſt of the Church of <hi>England,</hi> both as to the being and well-being of it, ought to be promoted and en<g ref="char:EOLhyphen"/>couraged by all the Members and Miniſters thereof; and all ſafe means and wayes as ſpeedily and as effectually un<g ref="char:EOLhyphen"/>dertaken as may be, for the advancement thereof; conſider<g ref="char:EOLhyphen"/>ing her danger from Papiſts and Phanaticks, which offer to ſwallow up all, the one by an Infallible Supremacy, the other by an Infallible Spirit; and both vain and counter<g ref="char:EOLhyphen"/>feit.</p>
+            <p n="2">2. Thoſe perſons which you call <hi>Presbyterians,</hi> which have been ſecluded from their Miniſtry theſe years paſt, by the Act of Uniformity, are not conſcious to themſelves of any inward principle of Opinion, or Diſaffection contrary to the
+<pb n="6" facs="tcp:45856:5"/>Church of <hi>England;</hi> and that many of them in all Coun<g ref="char:EOLhyphen"/>ties have ſo behaved themſelves, by attending upon the wor<g ref="char:EOLhyphen"/>ſhip of God, as it is now eſtabliſh'd, in publick, that the Miniſters of their ſeveral pariſhes may and will teſtifie with them of the decency and inoffenſiveneſs of their carriage and attendance hitherto: though it may be, ſome others, where there have been no Churches, or Miniſters ſcandalous and un<g ref="char:EOLhyphen"/>profitable, may have adventured ſometimes to have preach<g ref="char:EOLhyphen"/>ed in private for the Service of ſuch a deſtitute people, and for ſome maintenance too, happily for themſelves and Families, which otherwiſe might have ſtarved; the manner of their Education unfitting them for manual Labour: and all this without any affront to the Laws, or enervation of the ſtrength and Doctrine of the Churches to which they ſeverally belong: therefore are not altogether unfit to be comprehended in any Act, Statute, Licenſe, or Indulgence, which may further the ſettlement and tranquility of the Church.</p>
+            <p n="3">3. And if ſo, it is not unſafe but profitable at all times to ſtrengthen its intereſt, and multiply and encourage ſuch Mi<g ref="char:EOLhyphen"/>niſters and Members as are ready in their Conſciences, and by their ſtudy, diligence, and peaceableneſs, to do as much good as they can; ſince Turks, Papiſts, and they of the ſe<g ref="char:EOLhyphen"/>paration, are all for the encreaſe of their number; and the Church in the primitive times looked upon it as its Glory, that there were added to it daily ſuch as ſhould be ſaved; and Jews, Gentiles, and diſcontented perſons were then con<g ref="char:EOLhyphen"/>verted, and after their Converſion, Ordination and Uſeful<g ref="char:EOLhyphen"/>neſs in the Church, were encouraged; notwithſtanding ſome minute differences in Diſpoſition and Opinion. And me<g ref="char:EOLhyphen"/>thinks the Church of <hi>England</hi> ſhould not at any time look upon it, for her honour and peace, to narrow her own In<g ref="char:EOLhyphen"/>tereſt, and perplex her Followers with unneceſſary Subſcrip<g ref="char:EOLhyphen"/>tions, Impoſitions, or Altercations; eſpecially conſidering theſe <hi>Presbyterians</hi> are ſtill ſo ready to ſtick by her, living and dying, notwithſtanding all their diſcouragements and diſap<g ref="char:EOLhyphen"/>pointments; when as others fall in with her more for her Dividends, than her Doctrine: and if a man may ſee any thing in its cauſes, will make it appear ſo, if ever ſhe ſhould be in danger.</p>
+            <pb n="7" facs="tcp:45856:5"/>
+            <p n="4">4. Small and little conſiderations ought not for ever to keep the breach and wound open; conſidering how theſe ſmaller matters were diſpenſed with, not only in the Apoſtles times, and by perſons and ſuperiours who were divinely in<g ref="char:EOLhyphen"/>ſpired; but alſo in after-Ages, when differences aroſe about theſe little things, and were very hot and high at the begin<g ref="char:EOLhyphen"/>ning; yet were very fairly and prudently taken up when both ſides had ſpent their heats; as particularly in the buſi<g ref="char:EOLhyphen"/>neſs of
+<hi>Eaſter:</hi> which <hi>Irenaeus,</hi> though of <hi>Victor</hi>'s mind, did endeavour to compoſe, by a fair and fraternal Indulgence; <hi>&amp; non molliter</hi> Victorem <hi>ipſum reprehendebat,</hi> as <hi>Euſebius</hi> tells us, for being ſo fierce and imperious in a Cuſtom of that na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And it is likely the <hi>Papiſts</hi> would allow many things which they peremptorily enough inſiſted upon in the beginning of the Reformation; as Prieſts Marriages, and the Sacrament in both kinds, could they have the Church of <hi>England</hi> theirs, as it was before.</p>
+            <p>And why our men ſhould not do the like to their Brethren, of whoſe peaceableneſs and ſoundneſs in the Faith, they have had ſo good experience, for the Churches increaſe and glory: eſpecially in
+<hi>minutioribus hiſce,</hi> I underſtand not why they ſhould not be as tender of all her Members and Miniſters, and endeavour with as much prudence and indulgence, to keep them together in a true Church, as her ancient predeceſſors did, and her Enemies and Underminers ſtill do.</p>
+            <p>Yea conſidering withall that with ſome perſons they do it daily, and ſuch things are connived at, and indulged even a<g ref="char:EOLhyphen"/>mongſt Conformiſts themſelves: one way they have in Ca<g ref="char:EOLhyphen"/>thedrals, another in Parochial Churches: ſome pray towards the Eaſt, others do not ſo; ſome bow, others bow not: why then ſhould there not upon the ſame ground, be the ſame diſpenſations in other reputed Indifferences? That which hath been done may be done again <hi>in cadem materia.</hi>
+            </p>
+            <p>Conſidering withal, that the ſubſtantial peace and unity which this brings along with it, and is now obſtructed, is really better than the external decency and order which the ſtrict impoſing of theſe
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſaries may promote.</p>
+            <pb n="8" facs="tcp:45856:6"/>
+            <p>And beſides, it is alſo ſaid that even ſome of the very Do<g ref="char:EOLhyphen"/>ctrinal Articles of the Church of <hi>England</hi> themſelves are ſo cautiouſly and temperately warded (for peace ſake) that even they that have different ſentiments and apprehenſions there<g ref="char:EOLhyphen"/>of, may and do ſubſcribe them: And if this Liberty may be given in Doctrine, wherein the Subſcribers diſpute <hi>pro</hi> and <hi>con;</hi> why may it not alſo in Ceremonies and Mods of Worſhip, eſpecially if the peace of the Church ſo require it; I ſhall leave to my Betters to conſider and determine.</p>
+            <p n="5">5. Though great expectations have been, that more might have come in in all this time; that the Church of <hi>England</hi> might have been more glorious in her Numbers, Diſcipline, Uniformity and Ceremonies, yet becauſe all men have not the command of their own underſtandings, it hath not fallen out accordingly: And the King's Sacred Majeſty well de<g ref="char:EOLhyphen"/>clares it, That He hath <hi>found little fruit of theſe ways of Co<g ref="char:EOLhyphen"/>ertim for theſe twelve years paſt.</hi> So that it hath not only pleaſ<g ref="char:EOLhyphen"/>ed ſome Worthy Perſons to move for a Comprehenſion in ſe<g ref="char:EOLhyphen"/>veral Seſſions of Parliament, in order to the cure of our Diviſions; which have hitherto been obſtructed, or laid aſide: But it hath pleaſed the Kings Majeſty to give out His own Gracious Declaration for Indulgence; which, whether it ought now to be accepted by the <hi>Presbyterians,</hi> as the Caſe, or as their Principles lie, is the Queſtion.</p>
+            <p>It cannot be denied but that all the <hi>Presbyterians</hi> wiſhes and deſires are to enjoy their Liberties in publick places, and to be reſtored to the exerciſe of their Miniſtry again by the ſame Full and Legal Authority which thought fit to lay them aſide; that they may not ſeem to abet or eſpouſe any un<g ref="char:EOLhyphen"/>warrantable Separation, or be entangled in any real or re<g ref="char:EOLhyphen"/>puted Schiſme, or offenſive diſtance or diſtinction, either in place or practice, from the Church of <hi>England;</hi> to whom be all peace and proſperity.</p>
+            <p>Nor would they ſeem to neglect the diſcharge of their du<g ref="char:EOLhyphen"/>ty when called to it, nor ſlight His Majeſties Kindneſs, ſo freely and graciouſly offered; eſpecially when He, in deep reaſon of State thinks it may be an Expedient to procure
+<pb n="9" facs="tcp:45856:6"/>that Unity and Reconciliation which all other forcible courſe could not hitherto effect. Some think this the way for unity, others that it tends to Schiſm and Faction: Whoſe Judg<g ref="char:EOLhyphen"/>ments ſhould be followed? If we proceed, we offend our Fathers and Brethren; if we refuſe, we give occaſion to our Soveraign to think us a company of ſowr and ungovern<g ref="char:EOLhyphen"/>able men, whom neither kindneſs nor ſeverity will ſoften: when as God Almighty, who knows our hearts, ſees and knows otherwiſe; and that we are ready, as far as we can, to obey; and where we cannot, to ſuffer in all humble ſilence and ſubmiſſion.</p>
+            <p>Now the Queſtion, as I ſaid before, is, <hi>Whether the</hi> Preſ<g ref="char:EOLhyphen"/>byterians <hi>may not according to their Principles accept of His Majeſties Indulgence without offence or ſelf-contradiction?</hi>
+            </p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III.</head>
+            <p>THe Affirmative I prove thus;</p>
+            <p n="1">1. From the Nature of this Acceptance, which is a thank<g ref="char:EOLhyphen"/>ful Acceptance of His Majeſties Grace and Favour; and an inward willingneſs ſignified in this outward acceptance of His Majeſties Kindneſs, to be at the employment which they are appointed and ordained to: Now inward thankfulneſs and ſenſe of duty, and outward preaching of the Goſpel, with an earneſt endeavour to promote Gods Glory, the Kings Honour, the Kingdomes Happineſs, the Churches Peace, and to diſcharge their own duty in the ſeveral capacities and relations which the Providence of God, and the Prudence of a Chriſtian and Proteſtant Prince ſhall caſt us into, is not ſimply evil, which ſeems to be their Caſe, and to have no intrinſecal or formal evil in it.</p>
+            <p>For Conſequences which may fall out, or Offences which
+<pb n="10" facs="tcp:45856:7"/>may be taken accidentally, or invidious reflections, while a man is doing his duty, theſe are things incident and adherent to the moſt warrantable and juſt actions: and are not to be taken any cognizance of where the agent is right in his inten<g ref="char:EOLhyphen"/>tions, and the action in its ſubſtantial ingredients, as it is abſtracted from the Agent's infirmities and indiſcretions, and the by-ſtanders active and paſſive miſs-repreſentations and ill conſtructions.</p>
+            <p n="2">2. Such an Acceptance of a Favour from their Prince is not contrary to the principles and practices of <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> quatenas
+<hi>Presbyterians;</hi> for the Notion and Principle that denominateth them ſuch, is, that a Biſhop is not an higher Order or Degree of Miniſtry in the Church than the Prieſthood: in other things they agree with the eſtabliſhed Doctrine and Faith of the Church of <hi>England,</hi> and are willing to ſubmit to the Diſcipline thereof as it is by Law eſtabliſhed.</p>
+            <p>And how ſuch a point ſhould make all this great difference, or be inconſiſtent with the acceptance of a kindneſs offered them by His Majeſty, is a thing not to be conceived: it may be as well ſaid, if the King ſhould offer them a Living, with their liberty, or publick places to preach in, or a mainte<g ref="char:EOLhyphen"/>nance for themſelves and their Families, it is againſt their principles to take it. But for my part, I neither take them to be ſuch a company of fools as to do ſo; nor do I believe doth the Debater think ſo; nor do I believe would he him<g ref="char:EOLhyphen"/>ſelf do ſo, if he had their Sentiments, or were in their Cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <p>Nor is it againſt the <hi>Presbyterians</hi> practices, for they all along, together with their Epiſcopal Brethren, accepted of the Liberty then offered and indulged to them in the late times of Uſurpation: and why they ſhould not do it now, in the Reign, and from the Hands of their moſt Rightful Sove<g ref="char:EOLhyphen"/>raign, I ſee not.</p>
+            <p>The Primitive Chriſtians fell to their work, and bleſs'd God when they had any reſpite from the Tyranny and Op<g ref="char:EOLhyphen"/>preſſion of Heatheniſh and cruel Princes: And why they ſhould either with ſcorn or fullenneſs reject any kindneſs
+<pb n="11" facs="tcp:45856:7" rendition="simple:additions"/>from a Chriſtian, Proteſtant and Gracious Prince, is not to be apprehended.</p>
+            <p>Withal conſidering that there are as ſevere &amp; reſolved
+<hi>Preſ<g ref="char:EOLhyphen"/>byterians</hi> in <hi>France,</hi> and other places, as we have here in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and no body upbraids them, that I can hear of, for going againſt their Principles and Conſciences; in accepting and improving the Liberty therein granted, to the Honour of God and the peace of the Church.</p>
+            <p>
+               <hi>Obj.</hi> But in <hi>France</hi> they have another Religion uppermoſt: and they are bound to preach the Goſpel, as it lies in their way in oppoſition to it: Here, there is the ſame Religion which the
+<hi>Presbyterians</hi> profeſs, and the ſame Church which they are Members and Miniſters of, and they ought not to ſet up Altar againſt Altar.</p>
+            <p>
+               <hi>Anſw.</hi> This is no ſetting up Altar againſt Altar, nor any undermining of the Doctrine or Church of <hi>England</hi> on the
+<hi>Presbyterians</hi> part; but a ſubſervient Duty, tending to the Unity and Peace thereof, in ſuch a capacity as His Majeſty hath thought fit to place them. Some are appointed to rule as Biſhops; others to aſſiſt in Rule and Government as Deans and Chapters; others to preach the Goſpel in publick Chur<g ref="char:EOLhyphen"/>ches and Chappels: And if His Majeſty give way to ſuch as you call <hi>Presbyters,</hi> to purſue the ſame ends in publick Halls, or private Houſes, who can think much, ſince the work goes on in the loweſt as well as the higheſt Officers and places?</p>
+            <p>
+               <hi>Obj.</hi> But the <hi>Presbyterians</hi> in former times preached and wrote againſt Toleration and Indulgence; and if they do now fall in with it, they contradict themſelves.</p>
+            <p>
+               <hi>Anſw.</hi> Some did and ſome did not; but however in thoſe dayes when Errors and Hereſies firſt appeared, there was greater need and reaſon of a ſevere declaring againſt them and a toleration of them than afterwards, when they had ſo generally ſpread themſelves all the Kingdom over; that if it had been poſſible, they might have been prevented and
+<pb n="12" facs="tcp:45856:8"/>cruſhed in the beginning: but ſince they have grown now ſo far, other means muſt be uſed, and not the ſame Methods followed with ſpringing and overgrown Diſeaſes.</p>
+            <p>Beſides many of thoſe that declared againſt ſuch a Tole<g ref="char:EOLhyphen"/>ration, if not all of them, are dead and gone; and there are others now who are <hi>poſtrati</hi> to thoſe times, who now ſuf<g ref="char:EOLhyphen"/>fer, who were not capable of ſaying or doing any thing about publick mattters.</p>
+            <p>To all which I adde, that our Epiſcopal Brethren, if it ſhould ever be poſſible, that they ſhould live under the ſame diſcouragement and diſadvantage, now from His Majeſty, or any of His Succeſſors, or the Law; which the <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> now do lie under, and had a grant of their Liberty offered them in common with others, if they would pleaſe to let us know what they would then do, notwithſtanding all their Declarations and Reaſons againſt Toleration, Indul<g ref="char:EOLhyphen"/>gence and Comprehenſion at this time: it is verily thought that the <hi>Presbyterians</hi> are
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo fully of their mind and principles therein, that they would do accordingly.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP IV.</head>
+            <p>THe third Reaſon ariſes from the Nature of their Ordina<g ref="char:EOLhyphen"/>tion, and the neceſſity that lies upon ſuch as are Ordain<g ref="char:EOLhyphen"/>ed to preach the Goſpel, together with the ſolemn promiſe, made by every Miniſter, to preach according to his Duty, notwithſtanding all difficulties whatſoever.</p>
+            <p>Which Argument, to my knowledge, hath ſo far prevail<g ref="char:EOLhyphen"/>ed with many pious and peaceable men, that they have thought it their duty to preach as they had opportunity, not<g ref="char:EOLhyphen"/>withſtanding all the Severities that have been enacted and ex<g ref="char:EOLhyphen"/>erciſed to the contrary.</p>
+            <p>Though it may be others out of the great reverence and
+<pb n="13" facs="tcp:45856:8"/>reſpect they had to Laws and publick Authority, and the great affection they bore to the Church it ſelf, and her peace and unity, thought it more meet and reaſonable, for Orders ſake, to ſubmit to their Cenſure, and to ſuſpend the exerciſe of their Miniſtry, till it ſhould pleaſe God to prepare their way to their work, without miſpriſions or offences; judging withal that the Wo before mentioned belongs to them that either through ſlothfulneſs neglect and ſlight their Duty, when they have opportunity to preach or ſtudy; or through trea<g ref="char:EOLhyphen"/>chery and cowardize run away from it, for fear of Jews, Heathens or Hereticks, and doth not concern the Cenſures that are made in a Chriſtian Church and State upon any of her Officers, which, for order and peace ſake, ought to be ſubmitted to, though they ſhould be inflicted and denounced <hi>cum errante clave:</hi> and this made many Miniſters, eſpecially, if not only, of the <hi>Presbyterians,</hi> to hold off in ſilence all this time; which is ſome evidence of the Affection and Reverence which they bear to the Church of <hi>England,</hi>
+            </p>
+            <p>But being now the cenſure and penalty is taken off, and the way to their Duty opened, and in a good meaſure cleared, and the Kings Majeſty, who is in all Cauſes Eccleſiaſtical and Civil, Supream Governour, not only ſuſpending the penal Statutes, but alſo willing to approve and allow perſons to preach the Goſpel, and places to preach in: Conſidering their Ordination and Separation to the Work of the Mini<g ref="char:EOLhyphen"/>ſtry, and the Obligation that lies upon them to their Duty, from Gods precept, promiſe and threatning, I ſhall leave to conſideration whether the <hi>Presbyterians</hi> that accept of ſuch Licences, go with or againſt their Conſciences.</p>
+            <p n="4">4. Conſidering the Exigence and Neceſſity of the Church, her affairs and ſtraights require all the help and aſſiſtance that can be got or made, for refuting Errors, propagating of Truth, and edifying all good men in the Faith and Know<g ref="char:EOLhyphen"/>ledge of the Goſpel: And if the Kings Majeſty at Sea or Land have occaſion for Commanders or Souldiers in a preſent neceſſity, he will not refuſe even ſuch as are disbanded; nor ought they to caſt off or deny their Duty, when called to it, for the Honour and Safety of their King and Countrey.</p>
+            <pb n="14" facs="tcp:45856:9"/>
+            <p>And therefore the <hi>Presbyterians</hi> make account, in ſuch a caſe as this is, and in ſuch naughty times and dayes as we live in, when all kind of Vice, Errors and Hereſies do abound, that they ought not to neglect their Duty; but preach the Goſpel, <hi>licet non ſit omnino ſecundum formam Sta<g ref="char:EOLhyphen"/>tuti:</hi> In a time of publick calamity all men can lay on their hands, and employ their heads, and ought ſo to do to pre<g ref="char:EOLhyphen"/>vent a common danger; eſpecially when they are encoura<g ref="char:EOLhyphen"/>ged to it, and indulged in it, by him that next to God Al<g ref="char:EOLhyphen"/>mighty, hath the higheſt authority here on earth.</p>
+            <p>And for any one in ſuch a caſe to ſay, that men go againſt their principles if they proceed, I wiſh ſuch private and ill<g ref="char:EOLhyphen"/>laid principles were conſidered of, if there be any ſuch; and how far they are obliging that ſeem to be ſo repugnant to, and deſtructive of a common and publick good.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V.</head>
+            <p>NOw though theſe and many more Arguments of this Nature are and may be brought for the <hi>Presbyterians</hi> preaching of the Goſpel, though the Door be but half open: conſidering alſo many of their preſſing neceſſities, and the ſtraights which they and their Families are brought into by their long enforced ſilence.</p>
+            <p>Yet I muſt confeſs, that notwithſtanding all this, great care and caution, wiſdom and prudence ought to be uſed in the uſe and improvement of this Liberty which His Majeſty hath been pleaſed gratiouſly to grant; As that thoſe that are of the ſame Church may not ſeem by any means to fall from it, by an unjuſtifiable ſeparation, or bear their people in hand that they begin, and intend to proceed upon a new Church-State; or that they were Miniſters that had received another Ordination <hi>in ſpecie</hi> than the Miniſters of the Church of
+<hi>England</hi> now have; and alſo for the prevention of miſtakes,
+<pb n="15" facs="tcp:45856:9"/>conceits, miſrepreſentations, and new offences, if they that are Licenſed, or frequent Licenſed Meetings, would have a reverence for, and attend upon Gods publick Worſhip in Churches and Chappels, at the uſual times, or as often as conveniently they may, it would be a full anſwer to many unprofitable and ill-natured Scriblings, a great evidence of the <hi>Presbyterians</hi> integrity, of the tenderneſs of their Con<g ref="char:EOLhyphen"/>ſciences, and the conſtancy and conſiſtency of their principles, and of the great care which they have and all good men ought to have of the Honour and tranquility both of Church and State.</p>
+            <p>Or if conſidering the bitter and ſore diviſions that are a<g ref="char:EOLhyphen"/>mongſt Fathers and Sons, Brethren and Fellow-Labourers of the ſame Church and Miniſtry, which tend very much to the endammaging, if not the endangering thereof, if the Reverend Biſhops and others would but pleaſe to uſe what intereſt themſelves or friends have or can make in this next approaching Seſſion of Parliament, that ſuch Miniſters as are loyal and ſober, pious and peaceable, may come to their work again, by ſome Act of Comprehenſion, which hath been often moved, and as often openly obſtructed and ſecret<g ref="char:EOLhyphen"/>ly undermined; that ſo there may be mutual condeſcentions on both ſides in order to Charity and Unity; I doubt not yet but to ſee happy dayes; and the Congregations and Con<g ref="char:EOLhyphen"/>ſciences of Gods people will reap the happy fruits thereof; mens exulcerated minds and ſpirits will in a ſhort time be healed; the common adverſaries and underminers of our Church and the glory of it will be fully diſappointed; Go<g ref="char:EOLhyphen"/>vernors and Governed in their ſeveral ſtations and places well contented and rejoyced; the Churches intereſts of Do<g ref="char:EOLhyphen"/>ctrine, Diſcipline, Unity and Peace well ſtrengthened and ſecured; and the mouths of all true Proteſtants, both a<g ref="char:EOLhyphen"/>broad and at home, filled with acclamations of joy and gladneſs, and praiſes alſo to God for ſuch an happy re<g ref="char:EOLhyphen"/>conciliation; with their conſtant prayers to Heaven (not forgetting the Inſtruments thereof) for its prolongation and continuance, till Chriſt the Head of his Church come to Judgment.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="16" facs="tcp:45856:10"/>
+            <head>CHAP. VI.</head>
+            <p>
+               <hi>Obj.</hi> NOw if any ſhould object and anſwer, this would be a good way if matters could be thus brought about; but it is ſooner ſaid than done.</p>
+            <p>
+               <hi>Anſw.</hi> It will be ſo in Heaven; and why ſome offers ſhould not be made towards making us more happy in the Bleſſing of Reconciliation and peace, as well as more holy in the Acts and Duties of Sanctification, I ſee not. Holi<g ref="char:EOLhyphen"/>neſs will not be perfect till we come to heaven; and yet means are uſed to make perſons better and more mortified to the world, by preaching, praying, good Examples, Edu<g ref="char:EOLhyphen"/>cation and Endeavours: and why may not the ſame means be uſed in relation to Chriſtian Concord and Charity? And though we cannot be perfect in this world, yet we ſhould be perfecting Holineſs, Peace, Mortification and Reconciliation in the fear of God.</p>
+            <p>
+               <hi>Secondly,</hi> Neither is ſuch a thing impoſſible to be done here in this world <hi>quoad naturam rei;</hi> though I muſt confeſs while every party retain their prejudice, paſſions, unkind remem<g ref="char:EOLhyphen"/>brances of wrongs, and thoughts of revenge, it is utterly impoſſible: it would therefore do well that every one in their places, Superiors and Inferiors, would ſtudy and endeavour after thoſe things that make for peace, which is moſt certain<g ref="char:EOLhyphen"/>ly <hi>jure divino,</hi> whatſoever things be or be not.</p>
+            <p>Where there are commands given, and promiſes made upon the obſervance of ſuch commands, there is no impoſſi<g ref="char:EOLhyphen"/>bility implied or included: It is a vain thing to oppoſe a<g ref="char:EOLhyphen"/>gainſt any of the Ten Commandments, an impoſſibility in them to be obſerved: now peace and living in peace and charity one with another is commanded, <hi>Re.</hi> 14.19.
+<hi>Let us therefore fol<g ref="char:EOLhyphen"/>low the things that make for peace, and things wherewith one may
+<pb n="17" facs="tcp:45856:10"/>edifie another.</hi> 2 Cor. 13.11. <hi>Finally, Brethren, be perfect, be of good comfort, be of one mind, live in peace, and the God of love and peace ſhall be with you.</hi> Heb. 12.14. <hi>Follow peace with all men, and holineſs, without which no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>And that it is practicable we ſee it daily; men can poſſeſs their ſouls in peace, keep their Families and Corporations in peace; and other Churches live in peace, and why may not ours do ſo too? Conſidering the great contentment and comfort we ſhall all reap by it another day, it is no great wiſdome for any of us that have much and great work to do, and but a little time to live, that have Sickneſs, Death, Judg<g ref="char:EOLhyphen"/>ment, Eternity, upon the matter all at hand, to ruffle and diſcompoſe our ſelves and others by our heats and unkindneſs, to make our own paſſage rough and ſtormy out of this world into another, and leave all in anger, heats, and diſorder be<g ref="char:EOLhyphen"/>hind us, when we are gone: all which might have been hap<g ref="char:EOLhyphen"/>pily prevented by our innocent and amicable condeſcentions one unto another.</p>
+            <p>Let us not by any means leave the Family of God, the Church of Chriſt, and the Houſhold of Faith, in ſtrife and contention, if we can any way help it, either by deed or will before we die.</p>
+            <p>
+               <hi>Sat infelicibus armis pugnatum: Sat communibus adverſariis occaſionis &amp; commoditatis ad noſtrum exitium exhibitum: ſat imo nimis affectibus indultum malis:</hi> It is high time to be wiſe and good natured one unto another, to forgive what God hath forgiven, to diſpenſe with ſuch things as are diſpenſable, for the attainment of ſuch ſure and ſtaple bleſſings as are indi<g ref="char:EOLhyphen"/>ſpenſably neceſſary and eſſential to the life and being of our Church and Religion.</p>
+            <p>This, and much more may be ſaid, but that ſuch an one as I am muſt not preſcribe rules of Government and Juriſdi<g ref="char:EOLhyphen"/>ction to my Superiors and Betters.</p>
+            <p>
+               <hi>Obj.</hi> But muſt the Laws of the Land vail to every ſchiſ<g ref="char:EOLhyphen"/>matical, factious, and private mans opinion?</p>
+            <p>
+               <hi>Anſw.</hi> No, by no means! But I pray let us not in fury and
+<pb n="18" facs="tcp:45856:11"/>ſpleen nickmine ſuch for being ſo, as are upright in their hearts and conſciences, and plain and open in their outward actions for Truth and peace; and do as perfectly abhor Schiſm and Faction, and any thing of that complexion, and more too than any of their violent and virulent accuſers; and dare ſay further, that they ſhould neither ſleep nor die peaceably, if they were not as good Subjects to the King, and it may be better, and as true in their principles and Conſci<g ref="char:EOLhyphen"/>ences to the Doctrine and Intereſts of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as any or moſt of thoſe that make the loudeſt declama<g ref="char:EOLhyphen"/>tions againſt Schiſme and Faction, and the moſt uncharita<g ref="char:EOLhyphen"/>ble and unchriſtian reflections upon their poor Brethren.</p>
+            <p>But it may do well that the true notion of Schiſme and Faction were truly ſtated, and ſuch as were truly ſuch, were admoniſhed, corrected and reſtrained; and not the nocent and innocent, loyal and diſloyal, hand over-head puniſhed and branded together promiſcuouſly, and without any diſ<g ref="char:EOLhyphen"/>crimination. Scarce any one would ſuffer ſuch work to be in their own Families (that upon the ſurmiſes and whiſpers of a company of pick-thanks and bad men, that are not con<g ref="char:EOLhyphen"/>tent with the places they are in, but have a mind to riſe by ſlanders and murdering other mens reputations) and give way that ſuch children as are in reality reſpective and dutiful to their Fathers and Superiors, ſhould be ſuſpected, ſuſpend<g ref="char:EOLhyphen"/>ed, ejected and diſinherited, becauſe they had neither parts, nor wit, nor ſtrength, nor faces alike.</p>
+            <p>And if it would pleaſe our Superiors to make trial, and if they find not thoſe who are accounted little leſs than guilty of Hereſie and Sedition, both loyal and peaceable, and alſo ſound in the Faith, according to the Doctrine of the Church of <hi>England,</hi> then let them bring the wheel over them again, and doom them to perpetual ſilence and obſcurity as perſons invincibly obſtinate, and incapable either of encouragement or entertainment.</p>
+            <p>And if the courteous Reader pleaſe, let us a little conſider what Learned men ſay of Schiſm.</p>
+            <p>
+               <hi>Schiſmatici dicuntur (inquit</hi> Aquinas) <hi>quia propria ſponte
+<pb n="19" facs="tcp:45856:11"/>&amp; intentione ab unitate Eccleſiae ſe ſeparant.</hi> Aquin. 22.2. qu. 39. Now how this can be ſaid of them who take their cenſure and ſecluſion from the Miniſtry, with all meekneſs and manſuetude, and intend to live and die in communion with the Church of
+<hi>England,</hi> either as Miniſters or Members, let the world judge.</p>
+            <p>As S. <hi>Jerome</hi> tells us, <hi>ep.</hi> 62. <hi>Nos nec Eccleſiam ſcindimus, neque à Patrum Communione dividimur, ſed ab ipſis (ut ita di<g ref="char:EOLhyphen"/>cam in cunabilis) Catholico ſumus lacte nutriti.</hi>
+            </p>
+            <p>
+               <hi>Schiſma eſt contra pacem, quae eſt bonum participatum</hi> (ſayes the ſame <hi>Aquinas</hi>) Now how they can be guilty of Schiſm that pray for peace, petition for peace, and by all good means purſue and promote peace, and are willing to undergo any good teſt whatſoever which is eſſential to truth and peace, let all men ſee and ſay their minds.</p>
+            <p>
+               <hi>Schiſma (inquit</hi> Camero) <hi>eſt ſeceſſio in Religionis negotio vel temeraria, vel injuſta, ſive facta, ſive continuata:</hi> Now that there is no ſeceſſion is plain, in ſuch perſons as I am ſpeaking of, for they continue their Communion with the Church of <hi>England,</hi> and do earneſtly deſire their ſervice to preach the Goſpel may be accepted: And as for their raſhneſs and un<g ref="char:EOLhyphen"/>righteouſneſs in laying down their Miniſtry, if it be done without either conſideration or conſcience, let God Almigh<g ref="char:EOLhyphen"/>ty judge and determine, to whom they appeal; as it is, <hi>Pſal.</hi> 17.2. They deſire their ſentence may come from before him, and that his eyes would behold the things that are equal.</p>
+            <p>Not every Separation (as <hi>Chillingworth</hi> tells us) but a cauſleſs ſeparation from the external communion of any Church, is Schiſme: Now they do ſo far deny any cauſleſs ſeparation, that they acknowledge no ſeparation at all; but the ſuſpenſion of their ſubſcription to ſome diſputable points, for which they are meekly and mixtly willing; though not (without ſome little regret, conſidering their Ordinations and Duty) to be ſuſpended from their Office till they either ſee reaſon to ſubſcribe, or their Superiors (to whom they humbly refer themſelves think meet) to give them ſome re<g ref="char:EOLhyphen"/>laxation.</p>
+            <p>
+               <hi>Chillingworth</hi> (alſo tells us) that not ſeparation only, but
+<pb n="20" facs="tcp:45856:12" rendition="simple:additions"/>unneceſſary and unlawful conditions of Communion, make a Schiſm, and that there, may be <hi>fugati</hi> as well as <hi>fugitivi</hi> from the Church. And theſe people do imagine that this in no wiſe belongs to them, becauſe they impoſe nothing at all, but deſire ſome eaſe and releaſement from the preſent Im<g ref="char:EOLhyphen"/>poſitions.</p>
+            <p>
+               <hi>Obj.</hi> But why ſhould the Churches beſt friends be bound up to ſuch hard terms, and others that are not all out ſo, be diſpenſed with?</p>
+            <p>
+               <hi>Anſw.</hi> 1. It is not univerſally true that the Church of <hi>England</hi>'s beſt friends are all thoſe and only thoſe that have ſubſcribed the Declaration in the Act of Uniformity; for many think there are as good Subjects and as peaceable Mini<g ref="char:EOLhyphen"/>ſters out as in: however I dare ſay, ſome there are out that will not vail to many others, that are now legally ſetled in their employments and Churches in either peaceableneſs, or plain obedience.</p>
+            <p>
+               <hi>Anſw.</hi> 2. It is not uſual for Children and Brethren of the ſame Family, and of different conſtitutions, in point of health and weakneſs, except ſuch as are unnatural and envious, to think much with Parents tenderneſs to one Child more than another; but on the contrary. Love and Fraternal Affection leads rather to ſelf denial and condeſcentions; the ſtrong to the weak, the healthful to them that are ſickly, in order to mutual peace and preſervation.</p>
+            <p>I never heard of any but one that having ſubſcribed him<g ref="char:EOLhyphen"/>ſelf, being deſired if it were poſſible to get ſome fair inter<g ref="char:EOLhyphen"/>pretation or relaxation for his Brother that was then <hi>in Li<g ref="char:EOLhyphen"/>mine,</hi> anſwered, No: but rather, if it was in his power, he would endeavour to get his Bonds made heavier, who when time was, pretended as much moderation as others of his Brethren.</p>
+            <p n="3">3. I think, and all men ſee it, that there have been very great priviledges indulged in theſe ten years paſt, and conti<g ref="char:EOLhyphen"/>nued
+<pb n="12" facs="tcp:45856:12"/>to thoſe dutiful Sons of the Church who have been ſo fully ſatisfied in their ſubſcriptions; and diſcouragements anſwerable, upon them that have not: ſo that the one have been rewarded ſufficiently, and the other puniſhed ſeverely; and there the wiſdom of State hath made a very great and re<g ref="char:EOLhyphen"/>markable diſcrimination.</p>
+            <p>And then the Caſe is, whether after all theſe great privi<g ref="char:EOLhyphen"/>ledges and dignities enjoyed by ſome, and the diſcourage<g ref="char:EOLhyphen"/>ments that have been upon others, and the Church it ſelf not being altogether free from danger, and from enemies on the right hand and the left, whether it may not be adviſable to take in all her real friends, to ſtrengthen her intereſt? and ad<g ref="char:EOLhyphen"/>mit them again into the Miniſtry, and allow them for them<g ref="char:EOLhyphen"/>ſelves and Families ſuch outward encouragements for their ſervice, as may be procured, or they preſented to (which remain but as gleanings ofter the Vintage, now that the other are ſerved and ſatisfied) which I ſhall humbly leave to the conſideration of my Betters, if the exigents of our Religion and Church,
+<hi>viz,</hi> the encreaſing of ſin and the decay of pie<g ref="char:EOLhyphen"/>ty do require it.</p>
+            <p n="4">4. But if all this were not ſo, there is no more reaſon that any ſhould complain now that poſterity ſhould come into their Miniſtry upon eaſier conditions; that then all their predeceſ<g ref="char:EOLhyphen"/>ſors before theſe times had eaſier conditions than they. If a man will take occaſion to think himſelf grieved at every thing, he will never give over creating trouble to himſelf and all others that are about him.</p>
+            <p>
+               <hi>Obj.</hi> But why ſhould the Laws be altered?</p>
+            <p>
+               <hi>Anſw.</hi> Thoſe Laws that are moral and neceſſary, ought not to be altered, but thoſe that are alterable in their own nature, or temporary and expired, or in time grown incon<g ref="char:EOLhyphen"/>venient, may be altered; <hi>ſi adſit</hi> as <hi>Aquinas</hi> ſpeaks, <hi>evidens neceſſitas, aut maxima reip. utilitas.</hi>
+            </p>
+            <p>Laws and Ordinances (ſaith Sr. <hi>W. Raleigh</hi>) made when men are good, do oftentimes prove unprofitable, when they
+<pb n="22" facs="tcp:45856:13"/>are become evil; and therefore are ſome Laws made and abrogated according unto Accidents and Circumſtances which do happen.</p>
+            <p>Alſo new Laws which are made for a temporary trial of mens Loyalty and Obedience when they have had their time and end; and when the utmoſt effects are produced by them which they can do, may be abrogated and relaxed, as well as made, without any reflexion upon the Lawgivers them<g ref="char:EOLhyphen"/>ſelves. God took down his own Ceremonial Law after a certain time for the clearer advancement of his Grace and Goſpel; and ſo may earthly Princes do theirs too, or leave them as they are in themſelves indifferent, and alſo other in<g ref="char:EOLhyphen"/>cognoſcible School-points to which Aſſent and Conſent is re<g ref="char:EOLhyphen"/>quired, undetermined; when it appears to be more conveni<g ref="char:EOLhyphen"/>ent and happy for themſelves and their people. So that no body (that I know of) deſires the Alteraton of any Law, but ſuch as is temporary and alterable: and where the alte<g ref="char:EOLhyphen"/>ration thereof is convenient and profitable for Church and Commonwealth.</p>
+            <p>
+               <hi>Obj.</hi> But the <hi>Presbyterians</hi> know not what they would have; if the Parliament ſhould make a Law for their ſatisfa<g ref="char:EOLhyphen"/>ction, they would never be ſatisfied, nor can they agree a<g ref="char:EOLhyphen"/>mongſt themſelves what to deſire: ſome are for one thing, ſome for another; and whatſoever is granted, it is impoſſi<g ref="char:EOLhyphen"/>ble that all the Non-conformiſts ſhould be pleaſed.</p>
+            <p>
+               <hi>Anſw.</hi> This Objection, when I heard it at firſt, ſeemed to me ſo inconſiderable, that I verily thought it had never been objected in earneſt; but to have more of ſcorn and diſ<g ref="char:EOLhyphen"/>dain in it, to make the <hi>Presbyterians</hi> ridiculous, than of ſtrength and reaſon to keep them as they are.</p>
+            <p>Yet ſince this Objection obtains ſome belief, and moves ſome well-tempered men that are ready to do them a kind<g ref="char:EOLhyphen"/>neſs, when it lies in their way.</p>
+            <p>I anſwer, That it is well known by their Principles and Papers what they would have; and they are ſo far from being ill to pleaſe, that what the Biſhops have offered them<g ref="char:EOLhyphen"/>ſelves
+<pb n="23" facs="tcp:45856:13"/>before; or upon the Kings Reſtauration, would pleaſe them, or His Gracious Declaration concerning Eccleſiaſtical affairs, in the year 1661.</p>
+            <p>Yea, and I might almoſt further add, what the Reverend Biſhops think fit to grant, if they intend a kindneſs to them whoſe Principles they themſelves underſtand; or to the Church it ſelf in this great decay of Piety, and mighty overflow of A<g ref="char:EOLhyphen"/>theiſm, Hereſie and all manner of Debauchery, for want of Preachers, would be very thankfully acknowleded &amp; accepted.</p>
+            <p>
+               <hi>Obj.</hi> If it be ſaid what will pleaſe one party, will not con<g ref="char:EOLhyphen"/>tent another.</p>
+            <p>
+               <hi>Anſw.</hi> There are two principal Reaſons and Ends for ma<g ref="char:EOLhyphen"/>king abatements in ſome things which are now impoſed: Firſt, to keep the Miniſters and Members of the Church of <hi>England</hi> (that differ in ſmaller matters) together united a<g ref="char:EOLhyphen"/>gainſt the common Enemies, Errors, Hereſies, and Schiſmes that threaten either to invade or undermine the Church it ſelf; and this may be done by a Comprehenſion.</p>
+            <p>Secondly, To prevent Sedition, and keep us in peace; and this may be ſecured by ſuch a Toleration as the wiſdom of the Parliament ſhall think fit; they being beſt able to give ſuch Antidotes as may preſerve the Churches Vitals, and to cure and cheriſh ſuch Members as are weak or corrupted, without amputation.</p>
+            <p>Comprehenſion is for ſtrengthening the Churches Intereſt; and Toleration (if our Rulers think fit to grant it) of ſuch things as are tolerable; this is for the Kingdomes peace.</p>
+            <p>Now the things which the <hi>Presbyterians</hi> deſire to be com<g ref="char:EOLhyphen"/>prehended in, are not many nor great, nor in the leaſt en<g ref="char:EOLhyphen"/>trenching upon the Eſſentials of the Church, her Doctrine or Diſcipline.</p>
+            <pb n="24" facs="tcp:45856:14"/>
+            <p>But ſome Circumſtantials which our Church before they be commanded, acknowledge indifferent, and ſome other Impoſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, temporary, which in a few years according to the Act for Uniformity, do expire: theſe things we humbly deſire Diſpenſation for, are ſuch as are diſpenſed with in o<g ref="char:EOLhyphen"/>ther Churches; and may be (I truſt in our own) without any hazard to her Doctrine, Diſcipline or Glory.</p>
+            <p>And as for the Toleration before mentioned, thoſe that are called <hi>Presbyterians,</hi> humbly account that it is no more a part of the Comprehenſion which they deſire for them<g ref="char:EOLhyphen"/>ſelves, and would be content with, than Separation and Fa<g ref="char:EOLhyphen"/>ction, which this ſhould cure, is part of their principles or practices; or the perſons that hope for it, are
+<hi>Presbyterians;</hi> or the Doctrines they hold, the Doctrines of the Church of <hi>England;</hi> and therefore ſhould be no more put together with them by right, than the Church of <hi>England;</hi> with whom the Papiſts do as indiſtinctly joyn them, as our Epiſcopal Brethren do with the
+<hi>Presbyterians,</hi> from whom they have been pleas' to make a ſeceſſion as well as from themſelves.</p>
+            <p>Yet notwithſtanding, ſome even of them that are ac<g ref="char:EOLhyphen"/>counted of the Separation, acknowledge the Being, Ordi<g ref="char:EOLhyphen"/>nances and Officers of the Church of <hi>England;</hi> and are very grave, pious and learned men, who have done, and may yet further do Her and Religion great Service by their Pens and Parts, whoſe Caſes and Liberties the wiſdom of the Parliament (no doubt) but will take care of (when theſe things come into conſideration) according to the quality of their perſons, and the modeſty of their Principles as well as others.</p>
+            <p>In the mean time, If I were to Petition, I ſhould humbly beg it upon my knees, that it would pleaſe our Gracious So<g ref="char:EOLhyphen"/>veraign, together with His Two Houſes in Parliament, in whoſe hands the relaxation and making of Laws are; that according to the Loyalty and Integrity of their Hearts, Prin<g ref="char:EOLhyphen"/>ciples
+<pb n="25" facs="tcp:45856:14"/>and Actions, and no otherwiſe; that they would grant thoſe who are reputed <hi>Presbyterians,</hi> a liberty to preach the Goſpel, with ſuch Encouragements in their Miniſtry, by an Act for Comprehenſion, or otherwiſe, as they in their grave Wiſdom ſhall think moſt convenient; that ſo all heats and animoſities, on all ſides, may be quieted and quench<g ref="char:EOLhyphen"/>ed; and they that have been dead, in Law, for theſe ten years paſt, may be revived; which may poſſibly alſo give decayed Piety, Peace and Charity, an happy reſurrection. Which God of his great Mercy grant for Jeſus Chriſt ſake, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
